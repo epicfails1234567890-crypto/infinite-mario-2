@@ -1,1 +1,3 @@
 # infinite-mario-2
+
+Open it with game maker 8.0 pro...
