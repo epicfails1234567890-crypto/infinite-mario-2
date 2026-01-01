@@ -1,6 +1,8 @@
 # infinite-mario-2
 
-Open it with game maker 8.0 pro if u want to edit it...
+Click on the exe files if u want to play it...
+
+... or open it with game maker 8.0 pro if u want to edit it...
 
 <img width="671" height="502" alt="image" src="https://github.com/user-attachments/assets/17371305-bf58-47e4-aba4-4c00f5ae262a" />
 
