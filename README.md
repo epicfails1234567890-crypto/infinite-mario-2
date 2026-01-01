@@ -5,12 +5,13 @@ Click on the exe files if u want to play it...
 ⚠IMPORTANT!!!⚠ Controls:
 
 ```
-Global controls:
-Arrow keys: Move in the map or in the level.
+If you are in a level:
+Right and left keys: Move left or right.
 Z: Jump.
 X: Shoot.
 
 If you are on the map:
+Arrow keys: Move in the map. Collide a tree, a dick, a palm or a piranha plant to enter a level.
 A: Open game.
 S: Save game.
 ```
