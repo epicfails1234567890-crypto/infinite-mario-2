@@ -1,4 +1,4 @@
-# infinite-mario-2
+# Infinite Mario Bros 2:
 
 Click on the exe files if u want to play it...
 
